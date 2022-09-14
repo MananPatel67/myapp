@@ -36,3 +36,55 @@
     transform: rotate(360deg);
   }
 }
+
+.sign-up-btn {
+  
+  display: inline-block; 
+  background-color: #739b18;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #fff;
+  margin-top: -7px;
+  
+
+}
+
+.nav{
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position:fixed;
+  top:0;
+   
+}
+
+.SearchBar{
+  width: 100%;
+  background-color: #f1ff58;
+  list-style: none;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  list-style: none;
+}
+
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.tabs{
+  list-style: none;
+  display:flex;
+}
+.ctr{
+  display: flex;
+  margin-left: 20px;
+}
+
+.logo{
+  opacity: 0.7;
+}
